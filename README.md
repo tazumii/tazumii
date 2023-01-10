@@ -1,5 +1,6 @@
 ### Hi there 👋
 <a href="https://huggingface.co/tazumii">huggingface.co/tazumii</a>
+<a href="https://www.youtube.com/@tazumii">youtube.com/@tazumii </a>
 
 <!--
 **tazumii/tazumii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

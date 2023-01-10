@@ -1,5 +1,5 @@
 ### Hi there 👋
-### <a href="https://huggingface.co/tazumii">Huggingface</a>
+<a href="https://huggingface.co/tazumii">huggingface.co/tazumii</a>
 
 <!--
 **tazumii/tazumii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
